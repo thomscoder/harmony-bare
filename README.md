@@ -1,2 +1,5 @@
-# harmony-bare
-Default repository that Harmony clones
+# Harmony
+
+Harmony supports Branches and Commits!
+
+✨
